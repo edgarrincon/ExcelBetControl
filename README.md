@@ -17,5 +17,7 @@
 •	It is only available in Spanish, but if you need it in English, I will gladly make the necessary corrections or adaptations. It's open source, so feel free to change or modify anything you want, but I'd appreciate it if you'd share the result.
 
 •	If you are wondering what a sportsbook is, it is a very popular betting center in my country, where you can watch American horse races and bet.
-![image](https://user-images.githubusercontent.com/66454061/173908076-651dffef-4ca7-48b3-989c-2dc02bd5d8bd.png)
+
+#Any question? text me hello@edgarrincon.com 
+
 
