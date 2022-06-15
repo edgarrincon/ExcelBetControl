@@ -4,6 +4,7 @@
  
 ![Site preview](/BetControl.png)
 
+# Instructions
 •	You must enable macros to run the file correctly
 
 •	It works for Microsoft Excel 2016 and earlier versions, it has not been tested on the 2019 version, but in the latest versions such as 360 several modifications must be made to run it.
