@@ -5,4 +5,4 @@
 This is a elevator for publicity agency
 
 
-[![Site preview](/src/piso4.gif)](https://edgarrincon.github.io/piso4/)
+[![Site preview](/BetControl.png)]
